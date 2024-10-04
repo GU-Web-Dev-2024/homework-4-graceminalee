@@ -1,9 +1,6 @@
 html, body, main {
     margin: 0;
     font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    /* background-image: url(docs/background.jpeg);
-    background-size: cover;
-    background-repeat: no-repeat; */
     color: #000000;
     background-color: #85e21f;
     direction: column;
@@ -47,6 +44,7 @@ header {
     width: 100px;
     transition: background-color 0.3s, transform 0.3s; /* Bonus */
 }
+
 .candy-box img {
     width: 100px;
     height: 100px;
